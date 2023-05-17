@@ -14,6 +14,7 @@ This is the repository and codebase for the **[Reedley International School High
 
 1. [Node.js](https://nodejs.org)
 2. [React.js](https://reactjs.org)
+3. [TailwindCSS](https://tailwindcss.com)
 
 ### Infrastructure (Firebase)
 
